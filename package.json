@@ -1,7 +1,7 @@
 {
   "name": "react-native-simple-scrollable-tabs",
   "version": "0.0.1",
-  "description": "WIP. A simple scrollable tabs UI fully customizable. Actually does not support navigation or ViewPager, it is just UI.",
+  "description": "WIP. A simple scrollable tabs UI fully customizable. Actually, it does not support navigation or ViewPager, it is just UI.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
